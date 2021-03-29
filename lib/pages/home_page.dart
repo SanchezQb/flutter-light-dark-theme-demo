@@ -8,7 +8,7 @@ class HomePage extends StatelessWidget {
     final themeProvider = Provider.of<ThemeProvider>(context);
     return Scaffold(
       appBar: AppBar(
-        backgroundColor: Colors.blueAccent,
+        elevation: 0,
         title: Text("Flutter Light Dark Theme"),
         actions: [
           Switch.adaptive(
