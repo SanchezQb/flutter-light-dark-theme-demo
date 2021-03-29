@@ -7,6 +7,7 @@ class AppTheme {
     scaffoldBackgroundColor: Colors.black,
     colorScheme: ColorScheme.dark(),
     visualDensity: visualDensity,
+    cardColor: Colors.grey[900],
   );
 
   static final light = ThemeData(
@@ -14,5 +15,6 @@ class AppTheme {
     scaffoldBackgroundColor: Colors.white,
     colorScheme: ColorScheme.light(),
     visualDensity: visualDensity,
+    cardColor: Color(0xfff3f4f6),
   );
 }
