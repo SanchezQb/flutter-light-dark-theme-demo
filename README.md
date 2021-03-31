@@ -1,16 +1,25 @@
-# flutter_light_dark_theme
+# Flutter Light Dark Theme
 
-A new Flutter project.
+A simple app for switching between light and dark themes.
+<br>
 
-## Getting Started
+## 📸 ScreenShots
 
-This project is a starting point for a Flutter application.
+| Light| Dark|
+|------|-------|
+|<img src="screenshots/light.png" width="400">|<img src="screenshots/dark.png" width="400">|
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## 🔌 Plugins
+| Name | Usage |
+|------|-------|
+|[**Provider**](https://pub.dev/packages/provider)| State Management|
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+## 🤓 Author(s)
+**Chisom Ekwuribe** [![Twitter Follow](https://img.shields.io/twitter/follow/root_sanchez.svg?style=social)](https://twitter.com/root_sanchez)
+
+<!-- 
+## 🔖 LICENCE
+[Apache-2.0](https://github.com/JideGuru/FlutterEbookApp/blob/master/LICENSE) -->
